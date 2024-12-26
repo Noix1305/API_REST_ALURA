@@ -1,7 +1,7 @@
 package com.med.voll.api.controller;
 
-import com.med.voll.api.dominio.direccion.DatosDireccion;
-import com.med.voll.api.dominio.medico.*;
+import com.med.voll.api.domain.direccion.DatosDireccion;
+import com.med.voll.api.domain.medico.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

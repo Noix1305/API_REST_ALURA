@@ -1,6 +1,6 @@
-package com.med.voll.api.dominio.paciente;
+package com.med.voll.api.domain.paciente;
 
-import com.med.voll.api.dominio.direccion.DatosDireccion;
+import com.med.voll.api.domain.direccion.DatosDireccion;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-package com.med.voll.api.dominio.direccion;
+package com.med.voll.api.domain.direccion;
 
 
 import jakarta.persistence.Embeddable;
